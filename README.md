@@ -2,7 +2,8 @@
 Today I Learned
 
 ## git Convention
-{YYYYMMDD}-{state}-{title}: 학습 내용
+{YYYYMMDD}-{state}-{title}
+학습 내용
 
 ex) 20221218-learning-Hadoop: 하둡 학습 중
 
