@@ -5,7 +5,8 @@ Today I Learned
 {YYYYMMDD}-{state}-{title}
 학습 내용
 
-ex) 20221218-learning-Hadoop: 하둡 학습 중
+ex) 20221218-learning-Hadoop
+하둡 학습 중
 
 ### state 종류
 * learning : 학습 중
