@@ -16,8 +16,9 @@ ex) 20230210-done-spring-#1: 스프링 부트 살펴보기
 * docs : readme 수정 시
 
 ## 학습 카테고리
-* [ ] data structure
-  * primitive data structure
+레포 생성 이후 한번이라도 커밋한는내용에는 [x] 표시 할 것
+* data structure
+  * [ ] primitive data structure
     * integer
     * char
     * bool
@@ -25,61 +26,103 @@ ex) 20230210-done-spring-#1: 스프링 부트 살펴보기
     * pointer
   * nonprimitive data structure
     * linear data structure
-      * array
-      * stack
-      * queue
-      * linked list
+      * [ ] array
+      * [ ] stack
+      * [ ] queue
+      * [ ] linked list
     * non-linear
-      * set
-        * tree set
-        * hash set
-        * linked hash set
-        * sorted set
-      * tree
-        * general tree
-        * binary tree
-          * binary search tree
-            * splay tree
-          * balanced tree
-            * red black tree
-              * treap
-            * AVL tree
-            * b tree
-        * tenary tree
-
-      * graph
-      * map
-        * hash table
-        * hash map
-        * tree map
-        * linked hash map
-        * sorted map
+      * [ ] set
+        * [ ] tree set
+        * [ ] hash set
+        * [ ] linked hash set
+        * [ ] sorted set
+      * [ ] tree
+        * [ ] general tree
+        * [ ] binary tree
+          * [ ] binary search tree
+            * [ ] splay tree
+          * [ ] balanced tree
+            * [ ] red black tree
+              * [ ] treap
+            * [ ] AVL tree
+            * [ ] b tree
+        * [ ] tenary tree
+      * [ ] graph
+      * [ ] map
+        * [ ] hash table
+        * [ ] hash map
+        * [ ] tree map
+        * [ ] linked hash map
+        * [ ] sorted map
   
 * algorithm
   * sort
+    * [ ] bubble sort
+    * [ ] insert sort
+    * [ ] selection sort
+    * [ ] quick sort
+    * [ ] merge sort
+    * [ ] heap sort
+    * [ ] shell sort
+    * [ ] radix sort
+    * [ ] counting sort
   * search
-    * dfs
-    * bfs
-    * binary search
+    * [ ] dfs
+    * [ ] bfs
+    * [ ] binary search
   * etc
 * OS
   * window
   * linux
-    * ubuntu
-    * centOS
-* flatform
+    * [ ] ubuntu
+    * [ ] centOS
+* computer resource
+ * [ ] cpu
+ * [ ] memory
+ * [ ] process & thread
+* platform
+ * [ ] docker
+ * [ ] kubernets
 * framework
   * spring
-    * spring
-    * spring boot
-    * spring cloud
+    * [ ] spring
+    * [ ] spring boot
+    * [ ] spring cloud
 * design pattern
+ * [ ] creational - factory method
+  * [ ] singleton 
+  * [ ] abstract factory
+  * [ ] builder
+  * [ ] prototype
+ * [ ] structural - adapter
+  * [ ] adapter
+  * [ ] bridge
+  * [ ] composite
+  * [ ] decorator
+  * [ ] facade
+  * [ ] flyweight
+  * [ ] proxy
+ * [ ] behavioral - interpreter template method
+   * [ ] chain of responsibility 
+   * [ ] command
+   * [ ] iterator
+   * [ ] mediator
+   * [ ] memento
+   * [ ] obsever
+   * [ ] state
+   * [ ] strategy
+   * [ ] visitor
 * langauge
-  * procedural programming
-  * object oriented programming
-    * java
-    * python
+  * [ ] procedural programming
+  * [ ] object oriented programming
+    * [ ] java
+    * [ ] python
 * network
-  * protocol
-  * network structure
-  * 
+  * [ ] protocol
+    * http
+    * https
+    * ftp
+  * [ ] network structure
+  * [ ] network layer
+   * [ ] osi 7 layer
+   * [ ] tcp/ip 4 layer
