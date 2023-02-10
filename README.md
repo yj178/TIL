@@ -81,6 +81,8 @@ ex) 20230210-done-spring-#1: 스프링 부트 살펴보기
   *  memory
   *  process & thread
 * platform
+  * big data
+    * hadoop
   *  docker
   *  kubernets
 * framework
