@@ -70,7 +70,15 @@ ex) 20230210-done-spring-#1: 스프링 부트 살펴보기
     *  dfs
     *  bfs
     *  binary search
+    *  parametric search
+  * math
+    * sieve of eratosthenes
+  * opimization
+    * dynamic programming
+    * gradient decent
+    * greedy?
   * etc
+    * prefix sum
 * OS
   * window
   * linux
@@ -120,18 +128,35 @@ ex) 20230210-done-spring-#1: 스프링 부트 살펴보기
      *  java
      *  python
 * network
-  *  protocol
+  * internet service provider
+  * protocol
      * http
      * https
      * ftp
-  *  network structure
-  *  network layer
-     *  osi 7 layer
-     *  tcp/ip 4 layer
+  * network layer
+     * osi 7 layer
+     * tcp/ip 4 layer
+  * node
+     * router  
+     * client
+     * server
+        * domain name server
+        * proxy server
 * tool
   * configuration management tool
     * svn
     * git
   * CI/CD
     * jenkins
+* AI
+  * machine learning
+    * deep learning
+    * types
+      * supervised learning
+        * classification
+        * regression
+      * un-supervised learning
+        * clustering
+        * charaterization 
+      * reinforcement learning
   
