@@ -2,11 +2,13 @@
 Today I Learned
 
 ## git Convention
-{YYYYMMDD}-{state}-{title}
+{YYYYMMDD}-{state}-{docs name}-{#issue number}
+
 학습 내용
 
-ex) 20221218-learning-Hadoop
-하둡 학습 중
+ex) 20221218-learning-Hadoop-#1
+
+Hadoop 생태계 내용 정리
 
 ### state 종류
 * learning : 학습 중
