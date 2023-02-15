@@ -69,7 +69,7 @@ ex) 20230210-done-spring-#1: 스프링 부트 살펴보기
   * search
     *  dfs
     *  bfs
-    *  binary search
+    *  [binary search](https://github.com/yj178/TIL/blob/main/Algoritm/Search/Binary%20Search.md)
     *  parametric search
   * math
     * sieve of eratosthenes
